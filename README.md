@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+## 
+
+- C/C++
+- Dart/Flutter
+- Go
+- Kotlin
+- JavaScript/TypeScript
+- Python
+
 <!--
 **auddlr/auddlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
